@@ -1,0 +1,27 @@
+{
+  "name": "connectmongotoexpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "express": "^4.17.1",
+    "fawn": "^2.1.5",
+    "mongoose": "^5.8.9",
+    "multer": "^1.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Madhurirpatil67/MongoDbExpressApi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Madhurirpatil67/MongoDbExpressApi/issues"
+  },
+  "homepage": "https://github.com/Madhurirpatil67/MongoDbExpressApi#readme"
+}
